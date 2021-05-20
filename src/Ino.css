@@ -1,0 +1,156 @@
+
+
+body {
+    background-color: #f8f6f6;
+}
+
+
+.nav-width {
+    width: 100%;
+    height: 150px;
+}
+
+nav>.p-2 {
+    font-weight: bold;
+}
+
+nav>.p-2:hover {
+    border-bottom: 0.2rem solid #d93d17;
+    
+}
+a:hover {
+    color: #d93d17;
+    
+}
+
+.icon-menu {
+    padding-top: 20px !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.main-menu {
+    margin-top: 0 !important;
+    padding-top: 0px !important;
+    padding-bottom: 0rem !important;
+    margin-bottom: 0rem !important;
+    
+}
+
+.fa-whatsapp {
+    padding-right: 2px;  
+}
+
+.fa-whatsapp:hover {
+     color: #36bc4b;
+     cursor: pointer;
+}
+.fa-telegram {
+    padding-right: 2px;
+}
+.fa-telegram:hover {
+    color: #28a8ea;
+    cursor: pointer;
+}
+
+.fa-viber:hover {
+    color: #9640e0;
+    cursor: pointer;
+}
+.icon-tel {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    padding-left: 0;
+    padding-right: 5rem;
+    margin: 0 !important;
+    
+    font-weight: bold;
+    font-style: normal;
+}
+
+.tel {
+    color: #3a3a3a;
+}
+
+.tel:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    color: #0063ea;
+}
+
+
+
+
+.dostavka {
+    padding-right: 3rem; 
+    font-weight: bold;
+}
+  
+.dostavka:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+
+.day-danger {
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.day-danger>strong {
+    text-decoration: underline;
+}
+
+.city {
+    color: #343a40;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.priority {
+    margin-top: 5rem;
+}
+
+.prio-left , .prio-center {
+    margin-right: 10px;
+}
+
+.right-contact-bar {
+   margin-right: 25px;
+}
+
+.contact-bar {
+    margin-top: 50px;
+}
+
+strong.adress , strong.telephone , strong.work-time {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.adress-bar , .tel-bar , .work-time-bar {
+    height: auto;
+}
+
+.text-adress-bar, .text-tel-bar , .text-time-bar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.a-adress, .a-tel , .a-time {
+    border-bottom: 0.15rem solid #d93d17;
+}
+
+.vs {
+    color: #d93d17;
+}
+
+.textadress , .texttel {
+    font-size: 16px;
+}
+
+.footerstyle {
+    border-top: 0.2rem solid #d93d17;
+}
